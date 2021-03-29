@@ -1,0 +1,5 @@
+#detect the face masks in images
+python detect_mask_image.py --image images/pic1.jpeg
+
+#Detection in real-time video streams
+python detect_mask_video.py 
