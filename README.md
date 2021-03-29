@@ -31,7 +31,7 @@ INSTALLATION
 
 1. Clone the repo
 
-      $ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
+      $ git clone https://github.com/OnkarDeshpande8/Face_Mask_Detection_System.git
 
 2. Now, run the following command in your Terminal/Command Prompt to install the
 libraries required
